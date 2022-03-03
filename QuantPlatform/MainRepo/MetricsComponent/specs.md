@@ -1,0 +1,4 @@
+- Defines a list of indicators from the TA - Lib Library
+- Tests for each of the indicator library. Include test data base to work with - list of csvs
+- Work with input dict of dataframes and, output dataframes 
+- Include 
